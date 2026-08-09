@@ -61,22 +61,6 @@
       "purpose": "any maskable"
     }
   ],
-  "screenshots": [
-    {
-      "src": "screenshots/screenshot1.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Tela inicial — módulos disponíveis"
-    },
-    {
-      "src": "screenshots/screenshot2.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Módulo Concreto — traço e lista de material"
-    }
-  ],
   "categories": ["productivity", "utilities", "education"],
   "prefer_related_applications": true,
   "related_applications": [
