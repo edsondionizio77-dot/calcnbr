@@ -1,21 +1,32 @@
-# CalcNBR — Calculadoras Técnicas para Construção Civil
+[README.md](https://github.com/user-attachments/files/30873822/README.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21861398.svg)](https://doi.org/10.5281/zenodo.21861398)
 
-Aplicativo gratuito de calculadoras técnicas baseadas nas normas brasileiras (ABNT NBR), desenvolvido para profissionais e estudantes da construção civil.
+# CalcNBR
 
-## Sobre o aplicativo
+Calculadoras técnicas offline para profissionais da construção civil brasileira, baseadas nas normas ABNT NBR.
 
-O CalcNBR é uma ferramenta offline que permite realizar cálculos técnicos diretamente no celular, sem necessidade de internet. Desenvolvido com base nas normas da ABNT, oferece módulos práticos para o dia a dia da obra.
+## Links do Projeto
+
+- **Aplicativo Web (PWA):** https://edsondionizio77-dot.github.io/calcnbr/
+- **Versão Android:** Em breve na Google Play Store (Gerado via PWABuilder)
+- **DOI:** https://doi.org/10.5281/zenodo.21861398
+
+Aplicativo Progressive Web App (PWA) com calculadoras técnicas para alvenaria, drywall, revestimento cerâmico, telhado, concreto, muro, lista de material e diário de obra. Funciona 100% offline — todos os dados são armazenados localmente no dispositivo do usuário, sem necessidade de servidor ou conexão à internet.
+
+Projeto pessoal de Edson Alves Dionizio — pesquisa e desenvolvimento em tecnologia aplicada à construção civil. Distribuído gratuitamente.
+
+![CalcNBR — Tela inicial](calcnbr-home.png)
 
 ## Módulos disponíveis
 
-- **Alvenaria** — Quantitativo de blocos e argamassa (NBR 6136 / NBR 8681)
-- **Drywall** — Chapas, perfis e parafusos para parede e forro (NBR 15758:2025)
-- **Revestimento Cerâmico** — Quantitativo de peças e rejunte (NBR 14081)
-- **Telhado** — Quantitativo de telhas e madeiramento
-- **Concreto** — Traço, insumos e lista de material por elemento (NBR 6118 / NBR 12655)
-- **Muro** — Verificação de vento e esbeltez (NBR 6123 / NBR 6118)
-- **Lista de Material** — Organização de insumos por obra
-- **Diário de Obra** — Registro de atividades, equipe e materiais
+- **Alvenaria** — Blocos, argamassa e armação (NBR 6136 / NBR 8681)
+- **Telhado** — Telhas e madeiramento
+- **Drywall** — Parede e forro (NBR 15758:2025)
+- **Revestimento Cerâmico** — Medição por ambiente (NBR 14081)
+- **Concreto** — Volume, traço e lista de material (NBR 6118 / NBR 12655)
+- **Lista de Material** — Listas de compra por obra
+- **Diário de Obra** — Registro diário com RRT/ART
+- **Calculadora de Muro** — Vento e esbeltez (NBR 6123 / NBR 6118)
 
 ## Características
 
@@ -25,28 +36,17 @@ O CalcNBR é uma ferramenta offline que permite realizar cálculos técnicos dir
 - Geração de relatórios em PDF
 - Interface adaptada para uso em campo
 
-## Tecnologia
-
-Aplicativo web progressivo (PWA) distribuído via Google Play Store como TWA (Trusted Web Activity).
-
-- Linguagem: HTML5 + JavaScript
-- Armazenamento: localStorage (local no dispositivo)
-- Registro INPI: em processo
-
 ## Política de Privacidade
 
-O CalcNBR não coleta, transmite ou compartilha dados pessoais. Todos os dados inseridos ficam armazenados exclusivamente no dispositivo do usuário.
-
-Política completa: https://edsondionizio77-dot.github.io/calcnbr/privacy.html
+https://edsondionizio77-dot.github.io/calcnbr/privacy.html
 
 ## Contato
 
-NBR Apps — edsondionizio77@gmail.com
-
+edsondionizio77@gmail.com
 
 ## Versão
 
-1.0.0 — Lançamento inicial
+1.0.1
 
 ---
 
