@@ -41,7 +41,7 @@ Política completa: https://edsondionizio77-dot.github.io/calcnbr/privacy.html
 
 ## Contato
 
-NBR Apps — contato@nbrapps.com.br
+NBR Apps — edsondionizio77@gmail.com
 https://www.nbrapps.com.br
 
 ## Versão
