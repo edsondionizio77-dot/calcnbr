@@ -37,7 +37,7 @@ Aplicativo web progressivo (PWA) distribuído via Google Play Store como TWA (Tr
 
 O CalcNBR não coleta, transmite ou compartilha dados pessoais. Todos os dados inseridos ficam armazenados exclusivamente no dispositivo do usuário.
 
-Política completa: https://edsondionizio77.github.io/calcnbr/privacy.html
+Política completa: https://edsondionizio77-dot.github.io/calcnbr/privacy.html
 
 ## Contato
 
