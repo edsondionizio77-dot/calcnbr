@@ -7,7 +7,6 @@ Calculadoras técnicas offline para profissionais da construção civil brasilei
 
 ## Links do Projeto
 
-- **Aplicativo Web (PWA):** https://edsondionizio77-dot.github.io/calcnbr/
 - **Versão Android:** Em breve na Google Play Store (Gerado via PWABuilder)
 - **DOI:** https://doi.org/10.5281/zenodo.21861398
 
